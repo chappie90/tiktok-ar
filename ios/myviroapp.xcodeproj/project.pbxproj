@@ -498,7 +498,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.eduardodorantes.starterkit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tiktok.ar;
 				PRODUCT_NAME = myviroapp;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -525,7 +525,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.eduardodorantes.starterkit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tiktok.ar;
 				PRODUCT_NAME = myviroapp;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
